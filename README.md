@@ -1,16 +1,19 @@
-## Hi there 👋
+# Eugenio Pilastro Luca
 
-<!--
-**E-PL/E-PL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software architect working on e-commerce.
+I care about clear decisions, systems that are simple to run, and software people can trust.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus:** software architecture · e-commerce platforms · technical decisions
+
+**Interested in:** privacy, web accessibility
+
+**Tools:** TypeScript · Node.js · Python · React
+
+**Selected work**
+
+- [Smart home security system](https://github.com/E-PL/design-and-validation-of-a-smart-home-security-system): requirements and architecture to IEEE 29148
+- [Order management system](https://github.com/E-PL/udatracker-order-management-system): Flask, test-driven development
+- [Personal finance manager](https://github.com/E-PL/personal-finance-manager): design patterns, test-driven development
+
+Get in touch: [eugeniopilastroluca.it](https://www.eugeniopilastroluca.it)
